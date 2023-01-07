@@ -3,4 +3,4 @@ export default function EpisodeDetail(){
 
     let location = useLocation();
     console.log(location.state)
-}
+} 

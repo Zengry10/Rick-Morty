@@ -12,7 +12,7 @@ export default function ListEpisode(){
         })
     }
 
-
+ 
 
     useEffect(() => {
         ShowEpisode()
